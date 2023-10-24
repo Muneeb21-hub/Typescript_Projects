@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Muneeb u Rehman",
+    "courses": [
+      "Cloud Computing"
+    ],
+    "balance": 4500,
+    "studentId": 10000
+  },
+  {
+    "name": "Ali",
+    "courses": [
+      "AI"
+    ],
+    "balance": 4500,
+    "studentId": 10001
+  }
+]

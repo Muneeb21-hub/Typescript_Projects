@@ -1,0 +1,20 @@
+{
+  "name": "todo_list_by_muneeb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./ToDo_list.js",
+  "type": "module",
+  "bin": "./ToDo_list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "^9.2.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}

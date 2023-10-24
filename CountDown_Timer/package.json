@@ -1,0 +1,22 @@
+{
+  "name": "muneeb_countdown_timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./countDownTimer.js",
+  "type": "module",
+  "bin": "./countDownTimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.4",
+    "typescript": "^5.2.2"
+  }
+}

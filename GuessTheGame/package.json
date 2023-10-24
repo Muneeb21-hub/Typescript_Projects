@@ -1,0 +1,19 @@
+{
+  "name": "guessthegame",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./guessNumberGame.js",
+  "type": "module",
+  "bin": "./guessNumberGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "^9.2.10",
+    "typescript": "^5.1.6"
+  }
+}

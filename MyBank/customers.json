@@ -1,0 +1,34 @@
+[
+  {
+    "firstName": "Muneeb u Abro",
+    "lastName": "abro",
+    "gender": "male",
+    "age": 18,
+    "mobileNumber": "0332280596",
+    "accountBalance": 100
+  },
+  {
+    "firstName": "Muneeb ",
+    "lastName": "Abro",
+    "gender": "male",
+    "age": 18,
+    "mobileNumber": "0334400",
+    "accountBalance": 20099
+  },
+  {
+    "firstName": "m",
+    "lastName": "u",
+    "gender": "m",
+    "age": 2,
+    "mobileNumber": "5464",
+    "accountBalance": 7689
+  },
+  {
+    "firstName": "ryrf",
+    "lastName": "fgt",
+    "gender": "yy",
+    "age": null,
+    "mobileNumber": "56",
+    "accountBalance": 104
+  }
+]

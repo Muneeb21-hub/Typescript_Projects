@@ -1,0 +1,24 @@
+{
+  "name": "muneeb_advanture_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./adventureGame.js",
+  "type": "module",
+  "bin": "./adventureGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "random": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.4",
+    "typescript": "^5.2.2"
+  }
+}
